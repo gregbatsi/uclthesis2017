@@ -1,1 +1,3 @@
-# uclthesis2017
+# Text Generator using GAN
+
+
