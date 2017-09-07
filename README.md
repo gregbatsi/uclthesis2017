@@ -6,7 +6,7 @@ results.zip contains all the results from the experiments, its devided into 3 su
 
 How to set up the project:
 
-Download the code.zip
+Download the seqgan_book.zip
 
 As we did not have available a GPU for our experiments we were forced to use CPU, thought it retarded the computations. In order to set up the model the following steps were required:
 
