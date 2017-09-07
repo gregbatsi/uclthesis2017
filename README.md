@@ -1,3 +1,3 @@
-# Text Generator using GAN
+# Text Generator using GANs
 
 
