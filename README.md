@@ -1,4 +1,4 @@
-# Text Generator using GANs
+# Text Generation using GANs
 
 The datasets folder contains all the datasets that were used during the experiments
 
