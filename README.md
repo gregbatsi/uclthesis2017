@@ -1,12 +1,12 @@
 # Text Generator using GANs
 
-datasets folder contains all the datasets that were used during the experiments
+The datasets folder contains all the datasets that were used during the experiments
 
-results.zip contains all the results from the experiments, its devided into 3 subfolders : clean_results_in_excel, full_results, sampled_generations & expected_rewards results
+The file results.zip contains all the results from the experiments and it is divided into 3 subfolders : clean_results_in_excel, full_results, sampled_generations & expected_rewards results
 
 How to set up the project:
 
-Download the seqgan_book.zip
+Download the seqgan_book.zip file
 
 As we did not have available a GPU for our experiments we were forced to use CPU, thought it retarded the computations. In order to set up the model the following steps were required:
 
@@ -16,7 +16,7 @@ As we did not have available a GPU for our experiments we were forced to use CPU
 
 ·         The txt file contains the book we used as our dataset
 
-·         We used 3 different book from Brown corpus
+·         We used 3 different books, that can be found in the datasets folder
 
 ·         Change directory to seqgan_book
 
