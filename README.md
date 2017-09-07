@@ -26,5 +26,6 @@ In order to install Tensorflow 1.0.1 for Python 2.7 we had to perform the follow
 
 curl -s https://storage.googleapis.com/tensorflow |xmllint --format - |grep whl
 export TF_BINARY_URL=https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.1-py2-none-any.whl
+
 sudo pip install --upgrade $TF_BINARY_URL
 
